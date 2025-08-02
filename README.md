@@ -14,7 +14,8 @@ I'm a student of Electronics & Communication Engineering at SV-NIT. Currently ex
 <!-- - 👯 I’m looking to collaborate on ...  -->
 - 🤩 My Interests:
 - Electronics
-- Coding (Python, C)
+- AI/ML (beginner)
+- Programming (Python, C)
 <!-- - 🤔 I’m looking for help with programming projects
 -  - 💬 Ask me about ...--> 
 - 📫 How to reach me: Instagram/email/GitHub
